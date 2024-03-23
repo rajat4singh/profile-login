@@ -14,7 +14,7 @@ body{
   align-items: center;
   justify-content: center;
   background: rgb(93, 52, 219);
-  background: radial-gradient(circle, rgb(207, 44, 115) 0%, rgb(168, 207, 77) 100%);
+  background: radial-gradient(circle, rgb(207, 189, 197) 0%, rgb(62, 57, 206) 100%);
 }
 
 .label{
